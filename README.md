@@ -4,6 +4,7 @@ This repository contains the progress of my learning journey through the Artific
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [Course Structure](#course-structure)
 - [Projects](#projects)
